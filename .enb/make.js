@@ -10,6 +10,6 @@ module.exports = function(config) {
     make.init(config, options)
         .initializeBundles()
         .initializeMergedBundles()
-        .initializeGeminiTests()
+        .initializeTests()
         .initializeExamples();
 };
