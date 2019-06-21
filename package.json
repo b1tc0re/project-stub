@@ -18,7 +18,7 @@
     "node": ">=8"
   },
   "devDependencies": {
-    "enb-make": "^0.0.7",
+    "enb-make": "^0.0.8",
     "bem-tools-create": "^2.1.0",
     "cross-env": "^5.2.0",
     "node-sass": "^4.10.0",
