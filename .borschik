@@ -1,0 +1,9 @@
+{
+    "paths" : {
+        "static/": "//example.com/v1.0.4/"
+    },
+    "freeze_paths" : {
+        "**/i/*": "./static"
+    },
+    "freeze_nesting_level": 1
+}
