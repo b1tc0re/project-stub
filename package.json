@@ -12,7 +12,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/bem/project-stub.git"
+    "url": "git://github.com/b1tc0re/project-stub.git"
   },
   "engines": {
     "node": ">=8"
