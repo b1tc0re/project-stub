@@ -1,8 +1,11 @@
 let make = require("enb-make"),
     options = {
-        platforms : [],
+        platforms : {
+            desktop : ['common', 'theme']
+        },
         levels : [
-            { path: 'node_modules/bem-fontawesome5', check: false }
+            { path: 'node_modules/bem-fontawesome5', check: false },
+            { path: 'node_modules/bem-component-extended', check: true }
         ],
     };
 

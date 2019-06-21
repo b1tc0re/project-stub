@@ -18,14 +18,14 @@
     "node": ">=8"
   },
   "devDependencies": {
-    "enb-make": "^0.0.5",
+    "enb-make": "^0.0.6",
     "bem-tools-create": "^2.1.0",
     "cross-env": "^5.2.0",
     "node-sass": "^4.10.0",
     "bem-core": "^4.3.1",
     "bem": "^2.0.0",
     "decache": "^4.5.1",
-    "bem-components": "^6.0.1",
+    "bem-component-extended": "https://github.com/b1tc0re/bem-component-extended.git",
     "bem-fontawesome5": "^0.0.9"
   },
   "scripts": {
