@@ -20,8 +20,12 @@
 Имейте виду если вы будете разрабатывать проект в двух разный операционных системах Windows + Linux у вас borschik собирет статические файлы в разных папках.
 
 #### Windows
+```bash
 D:\Project\static\w\asdKLasfljkSA.svg
 D:\Project\static\w\Awdsawweqasdf.svg
+```
 #### Linux или MacOS 
+```bash
 D:\Project\static\W\asdKLasfljkSA.svg
 D:\Project\static\w\Awdsawweqasdf.svg
+```
