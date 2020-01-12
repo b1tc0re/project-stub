@@ -23,7 +23,7 @@
     "bem-core": "^4.3.1",
     "bem-fontawesome5": "^0.0.9",
     "bem-tools-create": "^2.3.0",
-    "enb-make": "^0.1.1",
+    "enb-make": "^0.1.2",
     "node-sass": "^4.13.0"
   },
   "scripts": {
